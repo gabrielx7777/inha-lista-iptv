@@ -45,10 +45,41 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 group-title="Esportes",Canal GOAT
 https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
 
-#EXTINF:-1 group-title="Filmes",Gospel Cartoon
+#EXTINF:-1 group-title="Anime",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 group-title="Cinema",Telecine Action 4K
+#EXTINF:-1 group-title="Filmes",Telecine Action 4K
 http://tjtor8411.com:80/010794/FXz1sY/90239.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine Action HD
+http://tjtor8411.com:80/010794/FXz1sY/72348.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine Cult HD
+http://tjtor8411.com:80/010794/FXz1sY/72352.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine Fun FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72355.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine Fun HD
+http://tjtor8411.com:80/010794/FXz1sY/72356.ts
+
+
+#EXTINF:-1 group-title="Filmes",Telecine Pipoca HD
+http://tjtor8411.com:80/010794/FXz1sY/72360.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine Pipoca SD
+http://tjtor8411.com:80/010794/FXz1sY/72361.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine Premium 4K
+http://tjtor8411.com:80/010794/FXz1sY/90237.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine Premium HD
+http://tjtor8411.com:80/010794/FXz1sY/72364.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine Premium SD
+http://tjtor8411.com:80/010794/FXz1sY/72365.ts
+
+#EXTINF:-1 group-title="Filmes",Telecine touch HD
+http://tjtor8411.com:80/010794/FXz1sY/72368.ts
 
 
