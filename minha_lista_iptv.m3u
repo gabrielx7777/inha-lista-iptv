@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Cinema",Web TV Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Aberta",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Retrô",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",Rede Clouding
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Aberta",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 group-title="Cinema",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Notícias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+
+#EXTINF:-1 group-title="Filmes",Filmes Online
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-1 group-title="Esportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+
+#EXTINF:-1 group-title="Anime",Anime TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",TV Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Anime",Otaku Sign TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema",CinePIX TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-1 group-title="Esportes",Canal GOAT
+https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
