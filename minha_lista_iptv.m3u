@@ -44,3 +44,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
 #EXTINF:-1 group-title="Esportes",Canal GOAT
 https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
+
+#EXTINF:-1 group-title="Anime",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
