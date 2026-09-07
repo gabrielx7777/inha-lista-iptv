@@ -1,141 +1,115 @@
 #EXTM3U
 
-# ── TV ABERTA ──
-#EXTINF:-1 group-title="TV ABERTA",Rede Brasil
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="TV ABERTA",TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
+# ==============================================
+# 📺 CATEGORIA: CANAIS ABERTA
+# ==============================================
 
-# ── CINEMA ──
-#EXTINF:-1 group-title="CINEMA",Web TV Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+# --- BAND ---
+#EXTINF:-1 group-title="ABERTA",Band São Paulo - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Band Minas Gerais - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Band Bahia - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Band Brasília - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
 
-# ── FILMES E SÉRIES ──
-#EXTINF:-1 group-title="FILMES E SÉRIES",Filmes Online
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Action - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/615.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Action - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/2422760
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Cult - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/620.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Cult - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/2422763
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Fun - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/625.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Fun - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/2910357
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Pipoca - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/630.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Pipoca - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/2422765
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Premium - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/635.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Premium - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/2422768
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Touch - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/589.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Touch - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/2422771
-#EXTINF:-1 group-title="FILMES E SÉRIES",AMC - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/671.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",AMC - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/524366
-#EXTINF:-1 group-title="FILMES E SÉRIES",A&E - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/666.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",A&E - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/524361
-#EXTINF:-1 group-title="FILMES E SÉRIES",Canal Brasil - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/146.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Canal Brasil - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/1671077
-#EXTINF:-1 group-title="FILMES E SÉRIES",Cinemax - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/682.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Cinemax - Opção 2
-http://dns.explouddev.com:80/live/c683B3095j/5873513/680.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Cinemax - Opção 3
-http://dns.explouddev.com:80/live/c683B3095j/5873513/679.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Cinemax - Opção 4
-http://173.208.194.186:80/live/92370341211/30082393260/524384
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/18751.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350862
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO 2 - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/18755.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO 2 - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350856
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Family - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/18767.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Family - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350871
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Plus - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/18764.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Plus - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350876
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Pop - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/635.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Pop - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/2422768
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Signature - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/18767.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Signature - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350871
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Xtreme - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/18775.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Xtreme - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350873
-#EXTINF:-1 group-title="FILMES E SÉRIES",Megapix - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/692.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Megapix - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/524398
+# --- FUTURA ---
+#EXTINF:-1 group-title="ABERTA",Futura - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
 
-# ── ESPORTES ──
-#EXTINF:-1 group-title="ESPORTES",CazéTV
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES",N Sports
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-#EXTINF:-1 group-title="ESPORTES",Canal GOAT
-https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/309458.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN - Opção 2
-http://dns.explouddev.com:80/live/c683B3095j/5873513/309458.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN - Opção 3
-http://173.208.194.186:80/live/92370341211/30082393260/350879
-#EXTINF:-1 group-title="ESPORTES",ESPN 2 - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/215.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN 2 - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350882
-#EXTINF:-1 group-title="ESPORTES",ESPN 3 - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/220.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN 3 - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350885
-#EXTINF:-1 group-title="ESPORTES",ESPN 4 - Opção 1
-http://dns.explouddev.com:80/live/c683B3095j/5873513/225.m3u8
-#EXTINF:-1 group-title="ESPORTES",ESPN 4 - Opção 2
-http://173.208.194.186:80/live/92370341211/30082393260/350888
-#EXTINF:-1 group-title="ESPORTES",ESPN 4 - Opção 3
-http://dns.explouddev.com:80/live/c683B3095j/5873513/222.m3u8
+# --- GLOBO / AFILIADAS ---
+#EXTINF:-1 group-title="ABERTA",Globo Bahia - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo São Paulo - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo Rio de Janeiro - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo Minas Gerais - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo Centro América - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo Nordeste - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo TV Morena - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo Brasília - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo Inter TV Cabugi - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Globo TV Verdes Mares - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
 
-# ── ANIMES ──
-#EXTINF:-1 group-title="ANIMES",Anime TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 group-title="ANIMES",TV Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 group-title="ANIMES",Otaku Sign TV
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
-#EXTINF:-1 group-title="ANIMES",Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+# --- TV ARATU / BAHIA ---
+#EXTINF:-1 group-title="ABERTA",TV Aratu (SBT Bahia) - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/377246.m3u8
 
-# ── ENTRETENIMENTO ──
-#EXTINF:-1 group-title="ENTRETENIMENTO",Rede Clouding
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMENTO",Retro Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+# --- RECORD ---
+#EXTINF:-1 group-title="ABERTA",RecordTV - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Record Bahia - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Record Rio - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
+#EXTINF:-1 group-title="ABERTA",Record Rio (Alternativo) - Opção 2
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
+#EXTINF:-1 group-title="ABERTA",Record Belém - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/xxx.m3u8
 
-# ── NOTÍCIAS ──
-#EXTINF:-1 group-title="NOTÍCIAS",Record News
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+# --- REDETV! ---
+#EXTINF:-1 group-title="ABERTA",RedeTV! - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/80170.m3u8
+#EXTINF:-1 group-title="ABERTA",RedeTV! / TV Pampa - Opção 2
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1215849527.m3u8
+
+# --- SBT ---
+#EXTINF:-1 group-title="ABERTA",SBT São Paulo - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/244161.m3u8
+#EXTINF:-1 group-title="ABERTA",SBT Bahia - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/377246.m3u8
+#EXTINF:-1 group-title="ABERTA",SBT Rio - Opção 1
+https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
+#EXTINF:-1 group-title="ABERTA",SBT Santa Catarina - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/244178.m3u8
+#EXTINF:-1 group-title="ABERTA",SBT Rio Grande do Sul - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/244181.m3u8
+#EXTINF:-1 group-title="ABERTA",SBT Minas Gerais - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/244184.m3u8
+
+# --- TV BRASIL ---
+#EXTINF:-1 group-title="ABERTA",TV Brasil - Opção 1
+https://tvbrasil-stream.ebc.com.br/index.m3u
+
+# --- TV APARECIDA ---
+#EXTINF:-1 group-title="ABERTA",TV Aparecida - Opção 1
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+# --- TV CULTURA ---
+#EXTINF:-1 group-title="ABERTA",TV Cultura - Opção 1
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+# ==============================================
+# 📰 CATEGORIA: NOTÍCIAS
+# ==============================================
+
+# --- GLOBONEWS ---
+#EXTINF:-1 group-title="NOTÍCIAS",GloboNews - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/479.m3u8
+#EXTINF:-1 group-title="NOTÍCIAS",GloboNews - Opção 2
+http://79.127.238.228:14093/
+
+# --- CNN BRASIL ---
+#EXTINF:-1 group-title="NOTÍCIAS",CNN Brasil - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/474.m3u8
+#EXTINF:-1 group-title="NOTÍCIAS",CNN Brasil - Opção 2
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+# --- BANDNEWS TV ---
+#EXTINF:-1 group-title="NOTÍCIAS",BandNews TV - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/469.m3u8
+#EXTINF:-1 group-title="NOTÍCIAS",BandNews TV - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/524311
+
+# --- JOVEM PAN NEWS ---
+#EXTINF:-1 group-title="NOTÍCIAS",Jovem Pan News - Opção 1
+http://173.208.194.186:80/live/92370341211/30082393260/524327
