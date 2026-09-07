@@ -36,6 +36,10 @@ http://173.208.194.186:80/live/92370341211/30082393260/2422768
 http://dns.explouddev.com:80/live/c683B3095j/5873513/589.m3u8
 #EXTINF:-1 group-title="FILMES",Telecine Touch - Opção 2
 http://173.208.194.186:80/live/92370341211/30082393260/2422771
+#EXTINF:-1 group-title="FILMES",AMC
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/671.m3u8
+#EXTINF:-1 group-title="FILMES",AMC - Opção 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524366
 
 #EXTINF:-1 group-title="ESPORTES",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
