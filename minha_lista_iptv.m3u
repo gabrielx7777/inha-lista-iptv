@@ -1,126 +1,82 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Cinema",Web TV Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Aberta",Rede Brasil
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Brazil/RedeBrasil.png" group-title="TV ABERTA",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Retrô",Retro Cartoon
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 group-title="Entretenimento",Rede Clouding
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Aberta",TV Brasil
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Brazil/TVBrasil.br.png" group-title="TV ABERTA",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 group-title="Cinema",Sony One Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="CINEMA",Web TV Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sony_Pictures_Logo.svg/512px-Sony_Pictures_Logo.svg.png" group-title="CINEMA",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Notícias",Record News
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-
-#EXTINF:-1 group-title="Filmes",Filmes Online
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Filmes Online
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Action - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/615.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Action - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/2422760
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Cult - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/620.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Cult - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/2422763
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Fun - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/625.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Fun - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/2910357
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Pipoca - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/630.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Pipoca - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/2422765
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Premium - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/635.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Premium - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/2422768
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Touch - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/589.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Touch - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/2422771
 
-#EXTINF:-1 group-title="Esportes",CazéTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Caz%C3%A9TV_logo.svg/512px-Caz%C3%A9TV_logo.svg.png" group-title="ESPORTES",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Esportes",N Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="ESPORTES",N Sports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-
-#EXTINF:-1 group-title="Anime",Anime TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Animes",TV Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Animes",Otaku Sign TV
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes E Series",CinePIX TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-
-#EXTINF:-1 group-title="Esportes",Canal GOAT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="ESPORTES",Canal GOAT
 https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/309458.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN - Opção 2
+http://dns.explouddev.com:80/live/c683B3095j/5873513/309458.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN - Opção 3
+http://173.208.194.186:80/live/92370341211/30082393260/350879
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN 2 - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/215.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN 2 - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350882
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN 3 - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/220.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN 3 - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350885
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN 4 - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/225.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN 4 - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350888
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN 4 - Opção 3
+http://dns.explouddev.com:80/live/c683B3095j/5873513/222.m3u8
 
-#EXTINF:-1 group-title="Animes",Gospel Cartoon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="ANIMES",Anime TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="ANIMES",TV Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="ANIMES",Otaku Sign TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="ANIMES",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes E Series",Telecine Action 1
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/615.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="ENTRETENIMENTO",Rede Clouding
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Retro_TV_Logo.svg/512px-Retro_TV_Logo.svg.png" group-title="ENTRETENIMENTO",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes E Series",Telecine Action 2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422760
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Cult 1
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/620.m3u8
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Cult 2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422763
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Fun 1
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/625.m3u8
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Fun 2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2910357
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Pipoca 1
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/630.m3u8
-#EXTINF:-1 group-title="Filmes E Series",Telecine Pipoca 2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422765
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Premium 1
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/635.m3u8
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Premium 2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422768
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine touch 1
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/589.m3u8
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine touch 2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422771
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Fun 1
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/625.m3u8
-
-#EXTINF:-1 group-title="Filmes E Series",Telecine Fun 2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2910357
-
-#EXTINF:-1 group-title="Esportes",ESPN 
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/309458.m3u8
-
-#EXTINF:-1 group-title="Esportes",ESPN OP2
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/309458.m3u8
-
-#EXTINF:-1 group-title="Esportes",ESPN OP3
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350879
-
-#EXTINF:-1 group-title="Esportes",ESPN 2
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/215.m3u8
-
-#EXTINF:-1 group-title="Esportes",ESPN 2 OP2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350882
-
-#EXTINF:-1 group-title="Esportes",ESPN 3 
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/220.m3u8
-
-#EXTINF:-1 group-title="Esportes",ESPN 3 OP2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350885
-
-#EXTINF:-1 group-title="Esportes",ESPN 4
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/225.m3u8
-
-#EXTINF:-1 group-title="Esportes",ESPN 4 OP2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350888
-
-#EXTINF:-1 group-title="Esportes",ESPN 4 OP3
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/222.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Record_News_logo.svg/512px-Record_News_logo.svg.png" group-title="NOTÍCIAS",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
