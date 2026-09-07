@@ -33,60 +33,60 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u
 #EXTINF:-1 group-title="Anime",Anime TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Entretenimento",TV Loading
+#EXTINF:-1 group-title="Animes",TV Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Anime",Otaku Sign TV
+#EXTINF:-1 group-title="Animes",Otaku Sign TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
-#EXTINF:-1 group-title="Cinema",CinePIX TV
+#EXTINF:-1 group-title="Filmes E Series",CinePIX TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
 #EXTINF:-1 group-title="Esportes",Canal GOAT
 https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
 
-#EXTINF:-1 group-title="Anime",Gospel Cartoon
+#EXTINF:-1 group-title="Animes",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine Action 1
+#EXTINF:-1 group-title="Filmes E Series",Telecine Action 1
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/615.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine Action 2
+#EXTINF:-1 group-title="Filmes E Series",Telecine Action 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422760
 
-#EXTINF:-1 group-title="Filmes",Telecine Cult 1
+#EXTINF:-1 group-title="Filmes E Series",Telecine Cult 1
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/620.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine Cult 2
+#EXTINF:-1 group-title="Filmes E Series",Telecine Cult 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422763
 
-#EXTINF:-1 group-title="Filmes",Telecine Fun 1
+#EXTINF:-1 group-title="Filmes E Series",Telecine Fun 1
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/625.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine Fun 2
+#EXTINF:-1 group-title="Filmes E Series",Telecine Fun 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2910357
 
-#EXTINF:-1 group-title="Filmes",Telecine Pipoca 1
+#EXTINF:-1 group-title="Filmes E Series",Telecine Pipoca 1
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/630.m3u8
-#EXTINF:-1 group-title="Filmes",Telecine Pipoca 2
+#EXTINF:-1 group-title="Filmes E Series",Telecine Pipoca 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422765
 
-#EXTINF:-1 group-title="Filmes",Telecine Premium 1
+#EXTINF:-1 group-title="Filmes E Series",Telecine Premium 1
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/635.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine Premium 2
+#EXTINF:-1 group-title="Filmes E Series",Telecine Premium 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422768
 
-#EXTINF:-1 group-title="Filmes",Telecine touch 1
+#EXTINF:-1 group-title="Filmes E Series",Telecine touch 1
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/589.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine touch 2
+#EXTINF:-1 group-title="Filmes E Series",Telecine touch 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422771
 
-#EXTINF:-1 group-title="Filmes",Telecine Fun 1
+#EXTINF:-1 group-title="Filmes E Series",Telecine Fun 1
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/625.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine Fun 2
+#EXTINF:-1 group-title="Filmes E Series",Telecine Fun 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2910357
 
 #EXTINF:-1 group-title="Esportes",ESPN 
