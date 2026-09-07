@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Brazil/RedeBrasil.png" group-title="TV ABERTA",Rede Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rede_Brasil_logo_2023.svg/512px-Rede_Brasil_logo_2023.svg.png" group-title="TV ABERTA",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Brazil/TVBrasil.br.png" group-title="TV ABERTA",TV Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/TV_Brasil_logo_2023.svg/512px-TV_Brasil_logo_2023.svg.png" group-title="TV ABERTA",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="CINEMA",Web TV Clássicos do Cinema
+#EXTINF:-1 group-title="CINEMA",Web TV Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sony_Pictures_Logo.svg/512px-Sony_Pictures_Logo.svg.png" group-title="CINEMA",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Filmes Online
+#EXTINF:-1 group-title="FILMES",Filmes Online
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Telecine_2015_logo.svg/512px-Telecine_2015_logo.svg.png" group-title="FILMES",Telecine Action - Opção 1
 http://dns.explouddev.com:80/live/c683B3095j/5873513/615.m3u8
@@ -39,9 +39,9 @@ http://173.208.194.186:80/live/92370341211/30082393260/2422771
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Caz%C3%A9TV_logo.svg/512px-Caz%C3%A9TV_logo.svg.png" group-title="ESPORTES",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="ESPORTES",N Sports
+#EXTINF:-1 group-title="ESPORTES",N Sports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="ESPORTES",Canal GOAT
+#EXTINF:-1 group-title="ESPORTES",Canal GOAT
 https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN - Opção 1
 http://dns.explouddev.com:80/live/c683B3095j/5873513/309458.m3u8
@@ -64,16 +64,16 @@ http://173.208.194.186:80/live/92370341211/30082393260/350888
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPN 4 - Opção 3
 http://dns.explouddev.com:80/live/c683B3095j/5873513/222.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="ANIMES",Anime TV
+#EXTINF:-1 group-title="ANIMES",Anime TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="ANIMES",TV Loading
+#EXTINF:-1 group-title="ANIMES",TV Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="ANIMES",Otaku Sign TV
+#EXTINF:-1 group-title="ANIMES",Otaku Sign TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="ANIMES",Gospel Cartoon
+#EXTINF:-1 group-title="ANIMES",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="ENTRETENIMENTO",Rede Clouding
+#EXTINF:-1 group-title="ENTRETENIMENTO",Rede Clouding
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Retro_TV_Logo.svg/512px-Retro_TV_Logo.svg.png" group-title="ENTRETENIMENTO",Retro Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
