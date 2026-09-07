@@ -89,6 +89,38 @@ http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/625.m3u8
 #EXTINF:-1 group-title="Filmes",Telecine Fun 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2910357
 
+#EXTINF:-1 group-title="Esportes",ESPN 
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/309458.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN OP2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/309458.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN OP3
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350879
+
+#EXTINF:-1 group-title="Esportes",ESPN 2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/215.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 2 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350882
+
+#EXTINF:-1 group-title="Esportes",ESPN 3 
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/220.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 3 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350885
+
+#EXTINF:-1 group-title="Esportes",ESPN 4
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/225.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 4 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350888
+
+#EXTINF:-1 group-title="Esportes",ESPN 4 OP3
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/222.m3u8
+
+
+
 
 
 
