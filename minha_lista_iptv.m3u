@@ -71,16 +71,24 @@ http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/630.m3u8
 #EXTINF:-1 group-title="Filmes",Telecine Pipoca 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422765
 
-#EXTINF:-1 group-title="Filmes",Telecine Premium 4K
-http://tjtor8411.com:80/010794/FXz1sY/90237.ts
+#EXTINF:-1 group-title="Filmes",Telecine Premium 1
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/635.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine Premium HD
-http://tjtor8411.com:80/010794/FXz1sY/72364.ts
+#EXTINF:-1 group-title="Filmes",Telecine Premium 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422768
 
-#EXTINF:-1 group-title="Filmes",Telecine Premium SD
-http://tjtor8411.com:80/010794/FXz1sY/72365.ts
+#EXTINF:-1 group-title="Filmes",Telecine touch 1
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/589.m3u8
 
-#EXTINF:-1 group-title="Filmes",Telecine touch HD
-http://tjtor8411.com:80/010794/FXz1sY/72368.ts
+#EXTINF:-1 group-title="Filmes",Telecine touch 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422771
+
+#EXTINF:-1 group-title="Filmes",Telecine Fun 1
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/625.m3u8
+
+#EXTINF:-1 group-title="Filmes",Telecine Fun 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2910357
+
+
 
 
