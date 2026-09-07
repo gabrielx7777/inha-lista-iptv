@@ -1,46 +1,98 @@
 #EXTM3U
 
+# ── TV ABERTA ──
 #EXTINF:-1 group-title="TV ABERTA",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
+# ── CINEMA ──
 #EXTINF:-1 group-title="CINEMA",Web TV Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES",Filmes Online
+# ── FILMES E SÉRIES ──
+#EXTINF:-1 group-title="FILMES E SÉRIES",Filmes Online
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-#EXTINF:-1 group-title="FILMES",Telecine Action - Opção 1
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Action - Opção 1
 http://dns.explouddev.com:80/live/c683B3095j/5873513/615.m3u8
-#EXTINF:-1 group-title="FILMES",Telecine Action - Opção 2
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Action - Opção 2
 http://173.208.194.186:80/live/92370341211/30082393260/2422760
-#EXTINF:-1 group-title="FILMES",Telecine Cult - Opção 1
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Cult - Opção 1
 http://dns.explouddev.com:80/live/c683B3095j/5873513/620.m3u8
-#EXTINF:-1 group-title="FILMES",Telecine Cult - Opção 2
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Cult - Opção 2
 http://173.208.194.186:80/live/92370341211/30082393260/2422763
-#EXTINF:-1 group-title="FILMES",Telecine Fun - Opção 1
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Fun - Opção 1
 http://dns.explouddev.com:80/live/c683B3095j/5873513/625.m3u8
-#EXTINF:-1 group-title="FILMES",Telecine Fun - Opção 2
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Fun - Opção 2
 http://173.208.194.186:80/live/92370341211/30082393260/2910357
-#EXTINF:-1 group-title="FILMES",Telecine Pipoca - Opção 1
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Pipoca - Opção 1
 http://dns.explouddev.com:80/live/c683B3095j/5873513/630.m3u8
-#EXTINF:-1 group-title="FILMES",Telecine Pipoca - Opção 2
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Pipoca - Opção 2
 http://173.208.194.186:80/live/92370341211/30082393260/2422765
-#EXTINF:-1 group-title="FILMES",Telecine Premium - Opção 1
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Premium - Opção 1
 http://dns.explouddev.com:80/live/c683B3095j/5873513/635.m3u8
-#EXTINF:-1 group-title="FILMES",Telecine Premium - Opção 2
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Premium - Opção 2
 http://173.208.194.186:80/live/92370341211/30082393260/2422768
-#EXTINF:-1 group-title="FILMES",Telecine Touch - Opção 1
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Touch - Opção 1
 http://dns.explouddev.com:80/live/c683B3095j/5873513/589.m3u8
-#EXTINF:-1 group-title="FILMES",Telecine Touch - Opção 2
+#EXTINF:-1 group-title="FILMES E SÉRIES",Telecine Touch - Opção 2
 http://173.208.194.186:80/live/92370341211/30082393260/2422771
-#EXTINF:-1 group-title="FILMES",AMC
-http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/671.m3u8
-#EXTINF:-1 group-title="FILMES",AMC - Opção 2
-http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524366
+#EXTINF:-1 group-title="FILMES E SÉRIES",AMC - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/671.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",AMC - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/524366
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/666.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/524361
+#EXTINF:-1 group-title="FILMES E SÉRIES",Canal Brasil - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/146.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",Canal Brasil - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/1671077
+#EXTINF:-1 group-title="FILMES E SÉRIES",Cinemax - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/682.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",Cinemax - Opção 2
+http://dns.explouddev.com:80/live/c683B3095j/5873513/680.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",Cinemax - Opção 3
+http://dns.explouddev.com:80/live/c683B3095j/5873513/679.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",Cinemax - Opção 4
+http://173.208.194.186:80/live/92370341211/30082393260/524384
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/18751.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350862
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO 2 - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/18755.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO 2 - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350856
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Family - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/18767.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Family - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350871
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Plus - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/18764.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Plus - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350876
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Pop - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/635.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Pop - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/2422768
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Signature - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/18767.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Signature - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350871
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Xtreme - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/18775.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",HBO Xtreme - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/350873
+#EXTINF:-1 group-title="FILMES E SÉRIES",Megapix - Opção 1
+http://dns.explouddev.com:80/live/c683B3095j/5873513/692.m3u8
+#EXTINF:-1 group-title="FILMES E SÉRIES",Megapix - Opção 2
+http://173.208.194.186:80/live/92370341211/30082393260/524398
 
+# ── ESPORTES ──
 #EXTINF:-1 group-title="ESPORTES",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",N Sports
@@ -68,6 +120,7 @@ http://173.208.194.186:80/live/92370341211/30082393260/350888
 #EXTINF:-1 group-title="ESPORTES",ESPN 4 - Opção 3
 http://dns.explouddev.com:80/live/c683B3095j/5873513/222.m3u8
 
+# ── ANIMES ──
 #EXTINF:-1 group-title="ANIMES",Anime TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 group-title="ANIMES",TV Loading
@@ -77,10 +130,12 @@ https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 group-title="ANIMES",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
+# ── ENTRETENIMENTO ──
 #EXTINF:-1 group-title="ENTRETENIMENTO",Rede Clouding
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMENTO",Retro Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
+# ── NOTÍCIAS ──
 #EXTINF:-1 group-title="NOTÍCIAS",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
